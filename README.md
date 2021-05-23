@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/dngthanhvy/dngthanhvy/blob/main/Mercury_Djinn_Front.gif" />
+  <br>
+  <br>
+  Hi! I'm <strong>Vy</strong>! :woman_technologist:
+  <br> 
+  <br> 
+  I'm a coding enthusiast with a :robot: Mechatronics Engineering :robot: background.
+  <br>
+  <samp>#c, #c++, #java, #python, #embeddedsystems, #iot</samp>
+  <br>
+  <br>
+  Currently learning fullstack web development with JS!
+  <br>
+  <samp>#javascript, #reactjs, #nodejs, #mongodb</samp>
+  <br>
+  
+</p>
 
-<!--
-**dngthanhvy/dngthanhvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
