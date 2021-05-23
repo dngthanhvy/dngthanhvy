@@ -7,7 +7,7 @@
   <br> 
   I'm a coding enthusiast with a :robot: Mechatronics Engineering :robot: background.
   <br>
-  <samp>#c, #c++, #java, #python, #embeddedsystems, #iot</samp>
+  <samp>#c, #c++, #java, #python, #embeddedsystems, #iot, #robotics</samp>
   <br>
   <br>
   Currently learning fullstack web development with JS!
