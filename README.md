@@ -48,4 +48,4 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 
 <hr>
 
-*Thanks to @devicons and @JetBrains for their icons.*
+*Thanks to [@devicons](https://github.com/devicons/devicon/tree/master/icons) and [@JetBrains](https://github.com/JetBrains/logos/tree/master/web) for their svg icons.*
