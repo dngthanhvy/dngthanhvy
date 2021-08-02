@@ -8,20 +8,21 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 - :robot: 2021 Goals: Machine Learning and Artificial Intelligence!
 
 ### Connect with me
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="linkedin" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/>
+<a href="https://github.com/dngthanhvy"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="linkedin" width="26px"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/thanhvduong/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
 
+### My languages
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
 
-### Languages and tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" width="26px" align="left"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" width="26px" align="left"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width="26px" align="left"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" width="26px" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" width="26px" align="left"/>
+### My tools
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="linkedin" width="26px" align="left"/></span>&nbsp;
