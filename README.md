@@ -8,29 +8,31 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 - :robot: 2021 Goals: Machine Learning and Artificial Intelligence!
 
 ### Connect with me
-<a href="https://github.com/dngthanhvy"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="linkedin" width="26px"/></a>&nbsp;
+<a href="https://github.com/dngthanhvy"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/thanhvduong/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
 
-### My languages
+### My main languages and tools
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="vscode" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="html5" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="css3" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" alt="sass" width="26px" align="left"/></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="reactjs" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26px" align="left"/></span>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="26px" align="left"/></a>&nbsp;
+
+### My other languages
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="python" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" alt="c" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="cs" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" alt="java" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/matlab/matlab-original.svg" alt="matlab" width="26px" align="left"/></span>&nbsp;
-
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26px" align="left"/></span>&nbsp;
 
 ### My tools
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="vscode" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/JetBrains/logos/685c217e547effa8ceb091e5e1a6c4ff283731cf/web/intellij-idea/intellij-idea.svg" alt="intellij" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/JetBrains/logos/685c217e547effa8ceb091e5e1a6c4ff283731cf/web/pycharm/pycharm.svg" alt="pycharm" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/JetBrains/logos/685c217e547effa8ceb091e5e1a6c4ff283731cf/web/webstorm/webstorm.svg" alt="webstorm" width="26px" align="left"/></span>&nbsp;
