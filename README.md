@@ -4,8 +4,8 @@
 I consider myself open to new challenges and I'm not afraid to learn new things.
 
 - :notebook_with_decorative_cover: Currently learning web development with JavaScript frameworks 
-- :chart_with_upwards_trend: Also learning Python and Data Analysis
-- :robot: 2021 Goals: Machine Learning and Artificial Intelligence!
+- :chart_with_upwards_trend: Also working as a Data Visualization Engineer
+- :robot: 2022 Goals: Machine Learning and Artificial Intelligence!
 
 ### Connect with me
 <a href="https://github.com/dngthanhvy"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;
@@ -22,6 +22,7 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="26px" align="left"/></a>&nbsp;
 
 ### My other languages
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg" alt="vuejs" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="python" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" alt="c" width="26px" align="left"/></span>&nbsp;
@@ -40,9 +41,8 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/labview/labview-original-wordmark.svg" alt="labview" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/arduino/arduino-original.svg" alt="arduino" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="26px" align="left"/></span>&nbsp;
-### Things I'm planning to learn!
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-plain.svg" alt="docker" width="26px" align="left"/></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg" alt="vuejs" width="26px" align="left"/></span>&nbsp;
+### Things I'm planning to learn!
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="typescript" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="26px" align="left"/></span>&nbsp;
