@@ -3,9 +3,9 @@
 
 I consider myself open to new challenges and I'm not afraid to learn new things.
 
-- :notebook_with_decorative_cover: Currently learning web development with JavaScript frameworks 
+- :notebook_with_decorative_cover: Always learning new things, especially Javascript frameworks
 - :chart_with_upwards_trend: Also working as a Data Visualization Engineer
-- :robot: 2022 Goals: Machine Learning and Artificial Intelligence!
+- :robot: 2022 Goals: Typescript, Machine learning and Artificial Intelligence
 
 ### Connect with me
 <a href="https://github.com/dngthanhvy"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;
