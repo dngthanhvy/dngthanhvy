@@ -52,5 +52,9 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 
 *Thanks to [@devicons](https://github.com/devicons/devicon/tree/master/icons) and [@JetBrains](https://github.com/JetBrains/logos/tree/master/web) for their svg icons.*
 
-[![Vy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngthanhvy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dngthanhvy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dngthanhvy&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dngthanhvy&layout=compact" />
+</a>
