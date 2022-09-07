@@ -5,7 +5,7 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 
 - :notebook_with_decorative_cover: Always learning new things, especially Javascript frameworks
 - :chart_with_upwards_trend: Also working as a Data Visualization Engineer
-- :robot: 2022 Goals: Typescript, Machine learning and Artificial Intelligence
+- :robot: 2023 Goals: Data Engineering and Machine Learning certifications
 
 ### Connect with me
 <a href="https://github.com/dngthanhvy"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;
@@ -19,6 +19,7 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26px" align="left"/></span>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="26px" align="left"/></a>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="26px" align="left"/></span>&nbsp;
 
 ### My main languages for coding challenges
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="26px" align="left"/></span>&nbsp;
@@ -33,20 +34,22 @@ I consider myself open to new challenges and I'm not afraid to learn new things.
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" alt="java" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/matlab/matlab-original.svg" alt="matlab" width="26px" align="left"/></span>&nbsp;
 
-### My tools
+### My current tools
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="26px" align="left"/></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-plain.svg" alt="docker" width="26px" align="left"/></span>&nbsp;
+
+### Other tools I find useful
 <span><img src="https://raw.githubusercontent.com/JetBrains/logos/685c217e547effa8ceb091e5e1a6c4ff283731cf/web/intellij-idea/intellij-idea.svg" alt="intellij" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/JetBrains/logos/685c217e547effa8ceb091e5e1a6c4ff283731cf/web/pycharm/pycharm.svg" alt="pycharm" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/JetBrains/logos/685c217e547effa8ceb091e5e1a6c4ff283731cf/web/webstorm/webstorm.svg" alt="webstorm" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/JetBrains/logos/685c217e547effa8ceb091e5e1a6c4ff283731cf/web/clion/clion.svg" alt="clion" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/labview/labview-original-wordmark.svg" alt="labview" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/arduino/arduino-original.svg" alt="arduino" width="26px" align="left"/></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="26px" align="left"/></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-plain.svg" alt="docker" width="26px" align="left"/></span>&nbsp;
 
 ### Things I'm planning to learn!
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="typescript" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="26px" align="left"/></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="26px" align="left"/></span>&nbsp;
 
 <hr>
 
